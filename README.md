@@ -3,10 +3,10 @@
 Repositori ini berisi kode untuk aplikasi Money Tracker, termasuk backend yang dibangun dengan Express.js, frontend yang dibangun dengan Flutter dan dump database dalam format SQL. Berikut adalah instruksi untuk mengatur dan menjalankan proyek ini di mesin lokal Anda.
 
 ## Daftar Isi
-1. [Prasyarat]
-2. [Set-up Database]
-3. [Set-up Backend]
-4. [Set-up Frontend]
+1. [Prasyarat](#Pra-syarat)
+2. [Set-up Database](#Set-up Database)
+3. [Set-up Backend](#Set-up Backend)
+4. [Set-up Frontend](#Set-up Frontend)
 
 
 
@@ -51,7 +51,7 @@ Repositori ini berisi kode untuk aplikasi Money Tracker, termasuk backend yang d
 
 4. Jalankan server backend:
     ```bash
-    npm start
+    npm run dev
     ```
 
 ## Set-up Frontend

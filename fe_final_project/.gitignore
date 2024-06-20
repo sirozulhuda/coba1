@@ -1,0 +1,78 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+# Uncomment this line if you are using the Windows, Linux or MacOS desktop app
+.dart_tool/
+.package/
+.flutter-plugins
+.flutter-plugins-dependencies
+/build/
+/flutter_export_environment.sh
+
+# Android related
+android/.gradle/
+android/app/build/
+# Kotlin/Native/Gradle
+.gradle/
+# Java
+.gradle/
+**/build/
+
+# iOS related
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/Flutter/Flutter.podspec.lock
+ios/.symlinks/
+ios/Flutter/Debug.xcconfig
+ios/Flutter/Release.xcconfig
+ios/Flutter/App.framework
+ios/Flutter/App.xcconfig
+# Generated Xcode project files
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Packages
+.published/
+
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+*.swo
+*.DS_Store
+**/.*.swp
+**/.*.swo
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.hprof
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Obsolete
+.flutter-plugins-dependencies
+.flutter-plugins
+.packages
+
+# Coverage
+coverage/
